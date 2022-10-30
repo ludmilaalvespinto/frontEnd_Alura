@@ -1,0 +1,158 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300;400;600&display=swap');
+
+body{
+    font-family: 'Quicksand';
+}
+
+header{
+    background-color: #BBBBBB;
+    padding: 20px 0;
+    font-family: 'Quicksand';
+}
+
+.caixa{
+    position:relative;
+    width: 940px;
+    margin:0 auto;
+}
+
+nav{
+    position:absolute;
+    top:110px;
+    right:20px;
+    
+
+}
+
+nav li{
+    display: inline;
+    margin: 0 0 0 15px;
+}
+
+nav a{
+    text-transform: uppercase;
+    color: black;
+    font-weight: bold;
+    font-size: 22px;
+    text-decoration: none;
+}
+
+nav a:hover{
+    color: crimson;
+    text-decoration: underline;
+}
+
+.principal{
+    text-align: center;
+    padding: 30px;
+}
+
+.titulo-principal{
+    font-size: 30px;
+    text-align: center;
+    padding: 30px;
+}
+
+.mapa{
+    padding: 3em 0;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.mapa p{
+    padding: 0 0 2em;
+}
+
+#banner{
+    width: 100%;
+    
+}
+
+#titulo{
+    font-size: 30px;
+    padding: 20px;
+}
+
+
+p{
+    text-align: center;
+}
+
+#missao{
+    font-size: 20px;
+    
+}
+
+strong{
+    color: crimson;
+}
+
+.beneficios{
+    background: #BBBBBB;
+    padding: 20px;
+    
+    
+}
+
+
+
+h2{
+    text-align: left;
+    font-size: 28px;
+    margin-left: 5%;
+    color: crimson;
+}
+
+.ulbeneficios{
+    display: inline-block;
+    vertical-align: top;
+    width: 20%;
+    margin-right: 25%;
+    
+}
+
+.itens{
+    margin-left: 10%;
+    padding: 20px;
+    
+}
+
+.itens:before{
+    content:"✷"
+}
+
+
+.imgbeneficios{
+    width: 50%;
+}
+
+
+
+
+
+
+
+
+
+footer {
+    text-align: center;
+    background: url(img/bg.jpg);
+    padding: 30px 0;
+
+}
+
+.copyright{
+    color: white;
+    font-size: 13px;
+    margin: 20px;
+}
+
+
+
+
+
+
+
+
+
+
